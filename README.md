@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=shubhangi0301&color=brightgreen)
+[![wakatime](https://wakatime.com/badge/user/018e4ad7-aa24-4ea3-a9ad-0629cf357ea7.svg)](https://wakatime.com/@018e4ad7-aa24-4ea3-a9ad-0629cf357ea7)
+
 ![Metrics](/github-metrics.svg)
 <!--
 **shubhangi0301/shubhangi0301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
